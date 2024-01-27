@@ -1,0 +1,1004 @@
+[04-Oct-2021 00:10:42 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 00:10:42 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:09:53 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:09:53 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:13:59 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:13:59 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:02 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:02 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:07 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:07 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:35 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:14:35 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:16:13 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:16:13 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:19:16 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:19:16 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:20:02 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 05:20:02 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 06:19:06 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 06:19:06 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 06:42:01 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 06:42:01 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:58:45 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:58:45 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:58:57 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:58:57 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:59:04 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 07:59:04 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 08:05:46 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[04-Oct-2021 08:05:46 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:23:49 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:23:49 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:23:54 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:23:54 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:30:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:32:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:32:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:32:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:33:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Config\Logger' not found in /home/rtmkpiuz/public_html/system/Config/Factories.php:114
+Stack trace:
+#0 /home/rtmkpiuz/public_html/system/Common.php(225): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#1 /home/rtmkpiuz/public_html/system/Config/Services.php(420): config('Logger')
+#2 /home/rtmkpiuz/public_html/system/Config/BaseService.php(100): CodeIgniter\Config\Services::logger(false)
+#3 /home/rtmkpiuz/public_html/system/Config/Services.php(417): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/rtmkpiuz/public_html/system/Config/BaseService.php(171): CodeIgniter\Config\Services::logger(true)
+#5 /home/rtmkpiuz/public_html/system/Common.php(828): CodeIgniter\Config\BaseService::__callStatic('logger', Array)
+#6 /home/rtmkpiuz/public_html/system/Debug/Exceptions.php(129): log_message('critical', 'syntax error, u...', Array)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ParseError))
+#8 {main}
+  thrown in /home/rtmkpiuz/public_html/system/Config/Factories.php on line 114
+[05-Oct-2021 00:33:28 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 00:33:28 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:06:49 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:06:49 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:21 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:22 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:22 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:25 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:25 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:26 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:26 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:26 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:26 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:27 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:27 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:27 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:09:27 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:48:29 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 01:48:29 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:05 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:05 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:21 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:38 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:38 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:41 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[05-Oct-2021 02:03:41 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:44:32 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:44:32 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:47:24 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:47:24 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:48:18 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:48:18 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:19 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:19 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:21 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:40 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[06-Oct-2021 09:51:40 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:18:45 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:18:45 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:33:26 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:33:26 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:33:33 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:33:33 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:02 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:02 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:03 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:03 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:08 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:36:08 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:57:51 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:57:51 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:58:18 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 05:58:18 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:09:51 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:09:51 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:09:55 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:09:55 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:50:55 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:50:55 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:50:55 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[09-Oct-2021 06:50:55 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:20 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:20 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:25 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:25 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:32 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:32 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:39 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[12-Oct-2021 07:40:39 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:03 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:03 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:42 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:42 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:53 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:18:53 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:30:51 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:30:51 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:31:42 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[17-Oct-2021 07:31:42 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 07:47:07 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 07:47:07 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 08:36:39 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 08:36:39 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 09:12:14 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 09:12:14 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 23:40:29 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[18-Oct-2021 23:40:29 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[19-Oct-2021 06:50:42 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[19-Oct-2021 06:50:42 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[19-Oct-2021 06:50:45 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[19-Oct-2021 06:50:45 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[20-Oct-2021 08:04:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[20-Oct-2021 08:04:21 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[20-Oct-2021 08:04:23 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[20-Oct-2021 08:04:23 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:38:59 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:38:59 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:40:38 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:40:38 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:13 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:13 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:15 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:15 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:18 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:18 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:20 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:47:20 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:57:21 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[22-Oct-2021 05:57:21 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:37 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:37 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:48 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:48 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:56 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:53:56 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:54:02 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 05:54:02 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:06:59 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:06:59 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:07:04 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:07:04 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:09:40 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:09:40 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:10:07 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:10:07 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:10:23 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:10:23 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:11:23 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:11:23 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:03 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:03 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:28 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:28 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:34 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php:15
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 15, Array)
+#1 /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php(15): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Events.php(13): App\Libraries\Google_calendar->__construct()
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(908): App\Controllers\Events->__construct()
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/rtmkpiuz/public_html/index.php(61): CodeIgniter\CodeIgniter-> in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[26-Oct-2021 06:14:34 America/Chicago] PHP Fatal error:  App\Libraries\Google_calendar::__construct(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/Google/google-api-php-client/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Libraries/Google_calendar.php on line 15
+[02-Feb-2022 09:58:27 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:1:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('42')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object( in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[02-Feb-2022 09:58:27 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:50:21 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:1:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('3')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(C in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:50:21 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:50:41 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:1:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('3')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(C in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:50:41 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:54:02 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:2:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('45')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object( in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:54:02 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:54:17 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:1:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('3')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(C in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[04-Feb-2022 17:54:17 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[05-Feb-2022 12:12:19 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:2:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('45')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object( in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[05-Feb-2022 12:12:19 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[05-Feb-2022 12:14:23 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:1:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('3')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(C in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[05-Feb-2022 12:14:23 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[15-Feb-2022 18:57:09 Asia/Tashkent] PHP Warning:  Uncaught ErrorException: require_once(/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php): failed to open stream: No such file or directory in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php:165
+Stack trace:
+#0 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/rtmkpiuz/...', 165, Array)
+#1 /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php(165): require_once()
+#2 /home/rtmkpiuz/public_html/app/Controllers/Messages.php(400): App\Controllers\App_Controller->download_app_files('files/timeline_...', 'a:2:{i:0;a:4:{s...')
+#3 /home/rtmkpiuz/public_html/system/CodeIgniter.php(936): App\Controllers\Messages->download_message_files('49')
+#4 /home/rtmkpiuz/public_html/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+#5 /home/rtmkpiuz/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object( in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
+[15-Feb-2022 18:57:09 Asia/Tashkent] PHP Fatal error:  App\Controllers\App_Controller::download_app_files(): Failed opening required '/home/rtmkpiuz/public_html/app/ThirdParty/nelexa-php-zip/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rtmkpiuz/public_html/app/Controllers/App_Controller.php on line 165
